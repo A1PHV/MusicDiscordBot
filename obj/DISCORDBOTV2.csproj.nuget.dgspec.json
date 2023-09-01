@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PRA3TXRIAN\\Desktop\\Soft\\Programming\\Проекты\\DISCORDBOTV2\\DISCORDBOTV2\\DISCORDBOTV2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PRA3TXRIAN\\Desktop\\Soft\\Programming\\Проекты\\DISCORDBOTV2\\DISCORDBOTV2\\DISCORDBOTV2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PRA3TXRIAN\\Desktop\\Soft\\Programming\\Проекты\\DISCORDBOTV2\\DISCORDBOTV2\\DISCORDBOTV2.csproj",
+        "projectName": "DISCORDBOTV2",
+        "projectPath": "C:\\Users\\PRA3TXRIAN\\Desktop\\Soft\\Programming\\Проекты\\DISCORDBOTV2\\DISCORDBOTV2\\DISCORDBOTV2.csproj",
+        "packagesPath": "C:\\Users\\PRA3TXRIAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PRA3TXRIAN\\Desktop\\Soft\\Programming\\Проекты\\DISCORDBOTV2\\DISCORDBOTV2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PRA3TXRIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Discord.Addons.Hosting": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Discord.Addons.Interactive": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "Discord.Net.Commands": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "Discord.Net.Core": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "Discord.Net.WebSocket": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "Messaia.Net.Base.Template.Services": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NetEscapades.Configuration.Yaml": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Victoria": {
+              "target": "Package",
+              "version": "[5.1.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
